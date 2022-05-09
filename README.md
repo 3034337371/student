@@ -86,7 +86,7 @@ MyEclipse2017、MySQL5.7、JDK1.8.0、Tomcat8.5、Navicat Premium 12
 
 ## 3.1系统流程图
 
-![img](https://img-blog.csdnimg.cn/e5dbe5378595416991c7597381941e28.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/e5dbe5378595416991c7597381941e28.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 
 
@@ -120,17 +120,19 @@ MyEclipse2017、MySQL5.7、JDK1.8.0、Tomcat8.5、Navicat Premium 12
 
 ## **4.1数据库表**
 
-![img](https://img-blog.csdnimg.cn/bb48c716ba7a4bfeaede1567c8c980d6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
-![img](https://img-blog.csdnimg.cn/75c891aeb2454b0aa3725810b601c6e5.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/bb48c716ba7a4bfeaede1567c8c980d6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-![img](https://img-blog.csdnimg.cn/58abfbc3b009425990d0f1288c952a4d.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_18,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/75c891aeb2454b0aa3725810b601c6e5.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-![img](https://img-blog.csdnimg.cn/6850bde6b6884eb49c6cb824a45df997.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/58abfbc3b009425990d0f1288c952a4d.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_18,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+
+![img](https://img-blog.csdnimg.cn/6850bde6b6884eb49c6cb824a45df997.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 
-![img](https://img-blog.csdnimg.cn/e2670f74ae0e4e079a8661336bcc59c5.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-![img](https://img-blog.csdnimg.cn/1406cde5ea9b43639fec24b49c5880f2.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/e2670f74ae0e4e079a8661336bcc59c5.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+
+![img](https://img-blog.csdnimg.cn/1406cde5ea9b43639fec24b49c5880f2.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 ##  4.2部分代码展示：
 
@@ -182,6 +184,7 @@ MyEclipse2017、MySQL5.7、JDK1.8.0、Tomcat8.5、Navicat Premium 12
 </html>
 ```
 
+![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 ```html
 <%@page import="java.sql.*"%>
@@ -224,6 +227,7 @@ MyEclipse2017、MySQL5.7、JDK1.8.0、Tomcat8.5、Navicat Premium 12
 </html>
 ```
 
+![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 
 
@@ -231,20 +235,21 @@ MyEclipse2017、MySQL5.7、JDK1.8.0、Tomcat8.5、Navicat Premium 12
 
 # 5 程序运行
 
-![img](https://img-blog.csdnimg.cn/b1d923ff74214b449f151ea120139c02.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/b1d923ff74214b449f151ea120139c02.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-![img](https://img-blog.csdnimg.cn/1a5c05057e4447cc9187a0ca702232de.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/1a5c05057e4447cc9187a0ca702232de.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-![img](https://img-blog.csdnimg.cn/e75c24c3e0a8401c93cd692022356cc3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/e75c24c3e0a8401c93cd692022356cc3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-![img](https://img-blog.csdnimg.cn/335e9971ad294fb9a5fc5dc91d4f38d0.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/335e9971ad294fb9a5fc5dc91d4f38d0.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-![img](https://img-blog.csdnimg.cn/70c613b9fce046ca99ba48bc6b5727b2.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/70c613b9fce046ca99ba48bc6b5727b2.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-![img](https://img-blog.csdnimg.cn/6fbfbb585fb84a1ba8e6f0ef7cc3c27e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
-![img](https://img-blog.csdnimg.cn/1c63e2a0244347149b84b389950d64e6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/6fbfbb585fb84a1ba8e6f0ef7cc3c27e.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
-![img](https://img-blog.csdnimg.cn/7648e36686d049c59b672172e35987d6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://img-blog.csdnimg.cn/1c63e2a0244347149b84b389950d64e6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+
+![img](https://img-blog.csdnimg.cn/7648e36686d049c59b672172e35987d6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5aW55LiO5YmR5oSP55qG5aSx,size_20,color_FFFFFF,t_70,g_se,x_16)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 
 
@@ -252,13 +257,37 @@ MyEclipse2017、MySQL5.7、JDK1.8.0、Tomcat8.5、Navicat Premium 12
 
 #  心得体会
 
-我想简单的谈谈我在JSP程序设计这门课中都学到了什么，JSP的全称是 Java Server Pages，它是一种动态页技术。我们需要配置的坏境有JDK，Tomcat，还要用到Webstorm、Dreamweaver，MyEclipse等编程软件。最开始我们学习了HTML这种文本标记语言，因为在暑假的时候有自学，所以学习起来感觉很轻松，用HTML可以做一些静态站，在我第一次用HTML做出第一个页时我真的好高兴啊，觉得好神奇啊！后面我们学到做动态站，其中就涉及到JSP内部对象及内部对象所对应的一些方法。再就是JSP与数据库的联系，怎么样引用数据库。通过以上所学到的知识我们可以基本上上做出一个比较实用的小站，比如一个班级站，在上面可以上传下载一些学习资料，以及存储班上同学的一些基本信息，给班上同学提供一个交流平台等等。这也是我在接下来的程序设计中所想完成的任务。记得老师在第一节课的时候就说我们这门课注重项目实战，也就是说要多上机操作。当一个问题想了好久也无法解决时，我感到沮丧与无助。当经过努力解决了一个程序上的难题时，我感到无比的喜悦。当经过每天为了编写代码一坐就是四五个小时，我感到无比的痛苦。但艰难痛苦已成往事，灿烂的明天向我走来，今天我总算迎接了胜利的果实，以前的辛酸与痛苦化作我坚强的力量，将在我将来的人生历程中，为我的美好明天打下坚实的基础。经过了这次磨练，我又一次感受到只有付出才能有收获，成功永远是属于不懈努力的人们的。
+我想简单的谈谈我在JSP程序设计这门课中都学到了什么，JSP的全称是 Java Server Pages，它是一种动态页技术。我们需要配置的坏境有JDK，Tomcat，还要用到Webstorm、Dreamweaver，MyEclipse等编程软件。最开始我们学习了HTML这种文本标记语言，因为在暑假的时候有自学，所以学习起来感觉很轻松，用HTML可以做一些静态站，在我第一次用HTML做出第一个页时我真的好高兴啊，觉得好神奇啊！后面我们学到做动态站，其中就涉及到JSP内部对象及内部对象所对应的一些方法。再就是JSP与数据库和JDBC的联系，怎么样引用数据库。通过以上所学到的知识我们可以基本上上做出一个比较实用的小站，比如一个班级站，在上面可以上传下载一些学习资料，以及存储班上同学的一些基本信息，给班上同学提供一个交流平台等等。这也是我在接下来的程序设计中所想完成的任务。记得老师在第一节课的时候就说我们这门课注重项目实战，也就是说要多上机操作。当一个问题想了好久也无法解决时，我感到沮丧与无助。当经过努力解决了一个程序上的难题时，我感到无比的喜悦。当经过每天为了编写代码一坐就是四五个小时，我感到无比的痛苦。但艰难痛苦已成往事，灿烂的明天向我走来，今天我总算迎接了胜利的果实，以前的辛酸与痛苦化作我坚强的力量，将在我将来的人生历程中，为我的美好明天打下坚实的基础。经过了这次磨练，我又一次感受到只有付出才能有收获，成功永远是属于不懈努力的人们的。
 
 ------
 
 # 总结：
 
-本次学生信息管理系统是基于EIMS系统进行修改的，由于临近交接，所剩时间不多，就进行了简单的修改，并增加了一点小功能（也就是Ctrl C+V）。该项目运用到的知识有Java、JSP、 MySQL、HTML知识，其中主要知识以JSP和HTML为主，增删改查运用到的知识是：JSP+JDBC+MySQL。所有的数据均保存到MySQL中。EIMS源码百度都是可以搜索到的，小伙伴们可以通过自己的学习程度进行合适的修改。如果有需要我这个代码的可以直接评论或者私信我，我看到后会选择公开，也欢迎各位小伙伴们一起学习一起讨论，在学习编程这条路上你并不孤单！感谢各位小伙伴支持！
+本次学生信息管理系统是基于JSP+JDBC+MySQL所编写，由于临近交接，所剩时间不多，就进行了简单的功能模块编写。该项目运用到的知识以JSP和HTML为主，增删改查运用到的知识是：JSP+JDBC+MySQL
+
+所有的数据均保存到MySQL中。文章末尾将放上代码下载地址，小伙伴们可以通过自己的学习程度进行合适的修改。欢迎各位小伙伴们一起学习一起讨论，在学习编程这条路上你并不孤单！感谢各位小伙伴支持！
+
+个人博客主页：https://blog.csdn.net/long_0901
+
+下载地址1（github）：https://github.com/3034337371/student
+
+备用下载地址2（gitee）：https://gitee.com/lhl0901/student
+
+
+
+# 补充：
+
+1.使用此系统项目必须事先建立好数据库以及表，否则会报500的错误。
+
+2.在user表中插入一条数据（登入时的账号和密码）如果不插入数据将无法进入管理员页面。
+
+3.如果对文件名进行修改，请在对应的JSP文件也同步进行修改，否则会报404错误找不到页面。
+
+4.在创建好的是数据库名和表名可以跟文件里面的一致，若不一致请将文件对应的数据库和表名修改为你所创建的表名。
+
+5.使用MyEclipse和IDEA编程软件时，导入项目后一定要配置好Tomcat服务器，否则无法访问
+
+
 
 # 
 
